@@ -1,6 +1,6 @@
 package Strings;
 
-public class MaxOccuringChar {
+class MaxOccuringChar {
 
     static char Structure(String str) {
         char ans = 'a';
